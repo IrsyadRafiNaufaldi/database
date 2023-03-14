@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background-color: yellow;
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+}
+
+h3{
+    color: white;
+    width: 9%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    text-align: left;
+    background-color: red;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
